@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{86D3300A-B72E-B9CC-1957-B245DE73CB40}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MovimentacaoScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MovimentacaoProjetilScript.cs" Line="14" Column="50" />
+      <File FileName="Assets/Scripts/VerificarMorteScript.cs" Line="26" Column="3" />
+      <File FileName="Assets/Scripts/VerificarDestruicao.cs" Line="17" Column="38" />
+      <File FileName="Assets/Scripts/ControladorDePlacar.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/AdicionaInimigos.cs" Line="39" Column="99" />
+      <File FileName="Assets/Scripts/ProjetilScript.cs" Line="16" Column="11" />
+      <File FileName="Assets/Scripts/MovimentacaoScript.cs" Line="31" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

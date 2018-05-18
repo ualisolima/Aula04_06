@@ -1,0 +1,2 @@
+/Users/wallinsondeivesbatistalima/Unit Projects/intro-desenv-jogos/Aula04_06/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/wallinsondeivesbatistalima/Unit Projects/intro-desenv-jogos/Aula04_06/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
